@@ -9,7 +9,7 @@ Npm package is now [@mauron85/react-native-background-geolocation](https://www.n
 
 # Donation
 
-Please support  my work and continued development with your donation.
+Please support mywork and continued development with your donation.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6GW8FPTE6TV5J)
 
